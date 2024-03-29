@@ -2,7 +2,7 @@
 
 ## Description
 
-This contains all the solutions I created for the 50 questions section-wise in the Frontend Expert list by AlgoExpert.io
+This contains all the solutions I created for the 50 questions section-wise in the Frontend Expert list by [AlgoExpert.io](https://www.algoexpert.io/frontend/coding-questions)
 
 ### Solutions List
 
